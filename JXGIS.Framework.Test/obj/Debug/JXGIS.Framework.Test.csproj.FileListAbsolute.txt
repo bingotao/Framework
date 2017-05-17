@@ -1,0 +1,6 @@
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Test\bin\Debug\JXGIS.Framework.Test.exe.config
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Test\bin\Debug\JXGIS.Framework.Test.exe
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Test\bin\Debug\JXGIS.Framework.Test.pdb
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Test\obj\Debug\JXGIS.Framework.Test.exe
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Test\obj\Debug\JXGIS.Framework.Test.pdb
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Test\obj\Debug\JXGIS.Framework.Test.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Entity\bin\Release\JXGIS.Framework.Entity.dll
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Entity\bin\Release\JXGIS.Framework.Entity.pdb
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Entity\obj\Release\JXGIS.Framework.Entity.dll
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Entity\obj\Release\JXGIS.Framework.Entity.pdb

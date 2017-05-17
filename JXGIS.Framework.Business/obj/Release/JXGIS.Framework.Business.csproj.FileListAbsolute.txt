@@ -1,0 +1,16 @@
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Business\bin\Release\JXGIS.Framework.Business.dll
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Business\bin\Release\JXGIS.Framework.Business.pdb
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Business\bin\Release\JXGIS.Framework.BaseLib.dll
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Business\bin\Release\JXGIS.Framework.Entity.dll
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Business\bin\Release\MySql.Data.dll
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Business\bin\Release\MySql.Data.Entity.EF6.dll
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Business\bin\Release\EntityFramework.dll
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Business\bin\Release\Oracle.ManagedDataAccess.dll
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Business\bin\Release\Aspose.Cells.dll
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Business\bin\Release\Newtonsoft.Json.dll
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Business\bin\Release\GeoJSON4EntityFramework.dll
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Business\bin\Release\JXGIS.Framework.BaseLib.pdb
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Business\bin\Release\JXGIS.Framework.Entity.pdb
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Business\obj\Release\JXGIS.Framework.Business.csprojResolveAssemblyReference.cache
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Business\obj\Release\JXGIS.Framework.Business.dll
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.Business\obj\Release\JXGIS.Framework.Business.pdb

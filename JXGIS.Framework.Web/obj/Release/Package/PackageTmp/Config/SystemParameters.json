@@ -1,0 +1,9 @@
+﻿{
+  "Title": "",
+  "Favicon": "",
+  "Description": "",
+  "Keywords": "",
+  "SQLDbConStr": "Server=127.0.0.1;Database=BroadcastDB;User Id=broadcast;Password=@abcd1234;",
+  "MySQLDbConStr": "Server=127.0.0.1;Database=mydb;Uid=mydb;Pwd=zdww1402;",
+  "OracleDbConStr": "Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=144.33.16.202)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=JXYY)));user id=JXGIS;Password=oracle;"
+}

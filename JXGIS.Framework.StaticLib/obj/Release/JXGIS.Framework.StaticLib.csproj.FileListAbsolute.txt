@@ -1,0 +1,5 @@
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.StaticLib\bin\Release\JXGIS.Framework.StaticLib.dll
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.StaticLib\bin\Release\JXGIS.Framework.StaticLib.pdb
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.StaticLib\obj\Release\JXGIS.Framework.StaticLib.csprojResolveAssemblyReference.cache
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.StaticLib\obj\Release\JXGIS.Framework.StaticLib.dll
+E:\工作\Code\14 Framework\JXGIS.Framework.Web\JXGIS.Framework.StaticLib\obj\Release\JXGIS.Framework.StaticLib.pdb

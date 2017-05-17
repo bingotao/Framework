@@ -1,0 +1,21 @@
+﻿@using System.Web.Optimization
+@{
+    Layout = "~/Views/Shared/_MasterBlank.cshtml";
+
+    if (!HttpContext.Current.IsDebuggingEnabled)
+    {
+        Bundles.Reference("Extends/Components/Home", "page");
+    }
+}
+<div id="app"></div>
+
+@if (HttpContext.Current.IsDebuggingEnabled)
+{
+    @Styles.Render("~/Home/css")
+    @Scripts.Render("~/Home/js")
+}
+else
+{
+    @Bundles.RenderStylesheets("page")
+    @Bundles.RenderScripts("page")
+}
